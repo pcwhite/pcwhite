@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcwhite
-- 👀 I’m professionally interested in coding, testing, and automation in the QA space, as well as unprofessionaly into other hobbies including piano, ultimate frisbee and dad jokes (think i'm losing money with that last one).
+- 👀 I’m professionally interested in coding, testing, and automation in the QA space, as well as unprofessionally into other hobbies including piano, ultimate frisbee and dad jokes (think i'm losing money with that last one).
 - 🌱 I’m currently learning Typescript, API testing, React and advanced integration using Cucumber / BDD
 - 💞️ I’m looking to collaborate on automation solutions using Selenium, Cucumber frameworks and other related projects.
 - 📫 How to reach me?  You can email me at philupthecup87@gmail.com
